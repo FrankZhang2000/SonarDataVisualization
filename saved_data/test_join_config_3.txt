@@ -1,0 +1,3 @@
+./saved_data/image_result_2D_1_1.mat norm 10
+./saved_data/image_result_2D_1_2.mat norm 10
+./saved_data/image_result_2D_1_3.mat norm 10

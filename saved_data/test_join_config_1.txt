@@ -1,0 +1,7 @@
+./saved_data/image_result_2D_0_1.mat norm 1
+./saved_data/image_result_2D_0_2.mat norm 1
+./saved_data/image_result_2D_0_3.mat fixed 1
+./saved_data/image_result_2D_0_4.mat fixed 1
+./saved_data/image_result_2D_0_5.mat fixed 1
+./saved_data/image_result_2D_0_6.mat fixed 1
+./saved_data/image_result_2D_0_7.mat fixed 1

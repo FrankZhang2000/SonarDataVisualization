@@ -1,0 +1,20 @@
+./data/image_result_2D_1.mat 32 10 15 1500 1 2 3 -1
+./data/image_result_2D_2.mat 32 10 15 1500 1 2 3 4 -1
+./data/image_result_2D_3.mat 32 9 15 1500 1 2 3 11 -1
+./data/image_result_2D_4.mat 32 10 15 1500 1 2 3 -1
+./data/image_result_2D_5.mat 32 10 15 1500 1 -1
+./data/image_result_2D_6.mat 32 6 15 1500 1 2 3 4 -1
+./data/image_result_2D_7.mat 32 10 15 1500 1 2 -1
+./data/image_result_2D_8.mat 32 10 15 1500 1 2 3 4 -1
+./data/image_result_2D_9.mat 32 10 15 1500 1 -1
+./data/image_result_2D_10.mat 32 10 15 1500 1 2 3 4 5 -1
+./data/image_result_2D_11.mat 32 9 15 1500 1 2 3 4 5 8 9 -1
+./data/image_result_2D_12.mat 32 11 15 1500 1 2 3 4 -1
+./data/image_result_2D_13.mat 32 10 15 1500 1 2 3 -1
+./data/image_result_2D_14.mat 32 11 15 1500 1 2 -1
+./data/image_result_2D_15.mat 32 10 15 1500 1 -1
+./data/image_result_2D_16.mat 32 13 15 1500 1 -1
+./data/image_result_2D_17.mat 32 10 15 1500 1 2 -1
+./data/image_result_2D_18.mat 32 14 15 1500 1 2 -1
+./data/image_result_2D_19.mat 32 11 15 1500 1 2 3 -1
+./data/image_result_2D_20.mat 32 10 15 1500 1 2 3 4 5 6 -1

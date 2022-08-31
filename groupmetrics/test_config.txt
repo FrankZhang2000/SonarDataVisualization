@@ -1,0 +1,1 @@
+./data/image_result_2D_0.mat 40 10 15 1500 1 2 -1

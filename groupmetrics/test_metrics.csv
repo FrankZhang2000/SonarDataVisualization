@@ -1,0 +1,3 @@
+ID,FileName,GroupID,TotPointCnt,EdgePointCnt,Max.Length,Max.Width,Max.Height,Bulk,Act.Length.repr,Act.Length.cent,Act.Width,Act.Height,Avg.Refl,Min.Refl,Max.Refl,Std.Dev.Refl
+1,./data/image_result_2D_0.mat,1,63,63,73.557,29.315,14.100,10947.998,98.640,95.589,19.784,7.523,40.652,40.008,42.649,0.579
+2,./data/image_result_2D_0.mat,2,355,305,194.888,39.173,23.181,64763.902,220.442,232.305,29.290,11.346,42.453,40.003,53.775,2.490
